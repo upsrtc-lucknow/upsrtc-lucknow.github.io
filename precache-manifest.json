@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.08-2122",
+  "version": "2026.10.08-2145",
   "files": [
     "./",
     "favicon.svg",
@@ -8,12 +8,12 @@
     "icons/icon-512.png",
     "icons/icon-maskable-512.png",
     "assets/upsrtc-logo-BINka9ou.png",
-    "assets/index-JpGpi0bq.css",
-    "assets/index-D2CNw1Vb.js",
-    "assets/jspdf.es.min-DQVSxjSf.js",
+    "assets/index-DbIe14_o.css",
+    "assets/index-C6xW8s1z.js",
+    "assets/jspdf.es.min-BgMMSmKa.js",
     "assets/html2canvas.esm-CBrSDip1.js",
     "assets/xlsx-D_0l8YDs.js",
     "assets/purify.es-DDpmou9H.js",
-    "assets/index.es-CQpBj0Fs.js"
+    "assets/index.es-ADXeQTxS.js"
   ]
 }
