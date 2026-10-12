@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.12-1515",
+  "version": "2026.10.12-1540",
   "files": [
     "./",
     "favicon.svg",
@@ -10,17 +10,17 @@
     "assets/upsrtc-logo-BINka9ou.png",
     "assets/rc-buttons-BBi2VPA6.jpg",
     "assets/rc-always-B8y15Qb8.jpg",
-    "assets/rc-scan-Ay17yrUI.jpg",
-    "assets/rc-check-EnJGm55P.jpg",
     "assets/rc-codes-jFCY4f-4.jpg",
+    "assets/rc-check-EnJGm55P.jpg",
     "assets/rc-tab-DPvhu6ht.jpg",
+    "assets/rc-scan-Ay17yrUI.jpg",
     "assets/rc-letter-CdSMJcEe.jpg",
-    "assets/index-aeKcZiTI.css",
-    "assets/index-V9oMqyhh.js",
-    "assets/jspdf.es.min-B4r2epso.js",
+    "assets/index-CYLhmWHw.css",
+    "assets/index-B8rc_ljl.js",
+    "assets/jspdf.es.min-BhE40Wya.js",
     "assets/html2canvas.esm-CBrSDip1.js",
     "assets/xlsx-D_0l8YDs.js",
     "assets/purify.es-DDpmou9H.js",
-    "assets/index.es-Cr52b88v.js"
+    "assets/index.es-9WzzOJzy.js"
   ]
 }
