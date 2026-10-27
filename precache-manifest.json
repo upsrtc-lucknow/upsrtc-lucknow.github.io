@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.22-2154",
+  "version": "2026.10.27-1549",
   "files": [
     "./",
     "favicon.svg",
@@ -11,16 +11,16 @@
     "assets/rc-always-B8y15Qb8.jpg",
     "assets/rc-buttons-BBi2VPA6.jpg",
     "assets/rc-check-EnJGm55P.jpg",
-    "assets/rc-codes-jFCY4f-4.jpg",
-    "assets/rc-letter-CdSMJcEe.jpg",
     "assets/rc-scan-Ay17yrUI.jpg",
+    "assets/rc-codes-jFCY4f-4.jpg",
     "assets/rc-tab-DPvhu6ht.jpg",
-    "assets/index-jk9LbDhF.css",
-    "assets/index-B9dPRPVr.js",
-    "assets/jspdf.es.min-fVl3DHdq.js",
+    "assets/rc-letter-CdSMJcEe.jpg",
+    "assets/index-DLGEnID_.css",
+    "assets/index-DdmeWw1U.js",
+    "assets/jspdf.es.min-cNqAmo1J.js",
     "assets/html2canvas.esm-CBrSDip1.js",
     "assets/xlsx-D_0l8YDs.js",
     "assets/purify.es-DDpmou9H.js",
-    "assets/index.es-D3p8rXXw.js"
+    "assets/index.es-BkTfsYWW.js"
   ]
 }
